@@ -8,4 +8,5 @@ These are raw files which cannot be used directly with SvxLink Server. They
 must first be processed using the filter_sounds.sh script to get the correct
 format.
 
-FIXME: More instructions should be written here...
+Download processed sound files from the [releases
+page](https://github.com/sm0svx/svxlink-sounds-en_US-heather/releases).
